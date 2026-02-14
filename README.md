@@ -34,7 +34,7 @@ Users can view products, add them to a shopping cart, and complete a purchase.
 * Always shows total number of items in the cart
 
 
-# 🔧 Technologies Used
+# 🔧Technologies Used
 
 * React
 
