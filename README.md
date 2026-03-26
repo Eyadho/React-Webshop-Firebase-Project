@@ -4,9 +4,11 @@ A simple and modern e-commerce web application built with React and Firebase.
 The app provides a smooth shopping experience with real-time product updates and cart management.
 
 ---
+
 ## 🚀 Live Demo
 
 👉 https://your-live-demo-link.com
+
 ---
 
 ## 🚀 Features
