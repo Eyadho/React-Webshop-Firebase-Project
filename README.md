@@ -48,14 +48,14 @@ The app provides a smooth shopping experience with real-time product updates and
 
 ---
 
-##⚙️ Installation & Setup
-###1. Clone the repository:
+## ⚙️ Installation & Setup
+### 1. Clone the repository:
 git clone https://github.com/Eyadho/React-Webshop-Firebase-Project.git
-###2. Navigate into the project:
+### 2. Navigate into the project:
 cd React-Webshop-Firebase-Project
-###3. Install dependencies:
+### 3. Install dependencies:
 npm install
-###4. Create Firebase config file:
+### 4. Create Firebase config file:
 .env
 
 Add your Firebase config:
@@ -63,7 +63,7 @@ Add your Firebase config:
 REACT_APP_API_KEY=your_key
 REACT_APP_AUTH_DOMAIN=your_domain
 REACT_APP_PROJECT_ID=your_project_id
-###5. Run the app:
+### 5. Run the app:
 npm start
 
 ---
