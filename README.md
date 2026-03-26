@@ -61,8 +61,11 @@ npm install
 Add your Firebase config:
 
 REACT_APP_API_KEY=your_key
+
 REACT_APP_AUTH_DOMAIN=your_domain
+
 REACT_APP_PROJECT_ID=your_project_id
+
 ### 5. Run the app:
 npm start
 
