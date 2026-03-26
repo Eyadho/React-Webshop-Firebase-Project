@@ -7,7 +7,7 @@ The app provides a smooth shopping experience with real-time product updates and
 
 ## 🚀 Live Demo
 
-👉 https://your-live-demo-link.com
+👉 https://webb24-js2-slutprojekt-eyad-hussen.netlify.app/
 
 ---
 
