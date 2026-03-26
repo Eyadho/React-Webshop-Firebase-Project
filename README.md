@@ -83,8 +83,11 @@ npm start
 * Managing global state in React
 * Creating reusable components
 * Handling real-world UI/UX challenges
+
 ---
 
-## ⭐️ Support
+## 👤 Author
 
-If you like this project, feel free to give it a ⭐️ on GitHub!
+**Eyad Hussen**  
+Webbutveckling med inriktning UX & E-handel  
+[LinkedIn](#) · [GitHub](#)
