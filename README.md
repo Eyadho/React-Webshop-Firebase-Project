@@ -76,10 +76,13 @@ REACT_APP_PROJECT_ID=your_project_id
 npm start
 
 ---
-## 📌 Overview
+## 🔥 What I Learned
 
-This project demonstrates how to build a basic e-commerce workflow, including product listing, cart functionality, and real-time database updates using Firebase.
-
+* Building a full e-commerce workflow
+* Using Firebase for authentication and database
+* Managing global state in React
+* Creating reusable components
+* Handling real-world UI/UX challenges
 ---
 
 ## ⭐️ Support
